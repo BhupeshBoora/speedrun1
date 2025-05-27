@@ -1,4 +1,4 @@
-# Speedrun Auth App (PostgreSQL + Passport.js)
+# Speedrun Auth App
 
 Hello,
 I hope you're doing well.
