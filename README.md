@@ -78,14 +78,8 @@ An Express.js authentication app built from scratch in **17 minutes** (and 48 se
 
 6. **Go to**  
    [http://localhost:3000](http://localhost:3000)
+##
 
----
+If you believe you can make it better, feel free to send Pull Requess.
 
-## Screens
-
-Very minimal UI. Just an `index.ejs` and a `register.ejs` with a form.
-
-## Speedrun Time
-
-Completed in **17 minutes and 48 seconds**  
-Challenge: Setup + DB + Auth + Session (and yes ofcourse, all without any external help)
+Thankyou.
