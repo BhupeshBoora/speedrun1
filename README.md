@@ -91,5 +91,3 @@ Very minimal UI. Just an `index.ejs` and a `register.ejs` with a form.
 
 Completed in **17 minutes and 48 seconds**  
 Challenge: Setup + DB + Auth + Session (and yes ofcourse, all without any external help)
-
----
