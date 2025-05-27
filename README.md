@@ -85,8 +85,6 @@ An Express.js authentication app built from scratch in **17 minutes** (and 48 se
 
 Very minimal UI. Just an `index.ejs` and a `register.ejs` with a form.
 
----
-
 ## Speedrun Time
 
 Completed in **17 minutes and 48 seconds**  
