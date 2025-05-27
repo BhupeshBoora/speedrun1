@@ -80,6 +80,6 @@ An Express.js authentication app built from scratch in **17 minutes** (and 48 se
    [http://localhost:3000](http://localhost:3000)
 ##
 
-If you believe you can make it better, feel free to send Pull Requess.
+If you believe you can make it better, feel free to send Pull Requests.
 
 Thankyou.
